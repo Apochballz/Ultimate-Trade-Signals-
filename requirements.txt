@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+TA-Lib
+numpy
+requests
+pytz
+python-dotenv
+flask
+gunicorn
